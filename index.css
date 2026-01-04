@@ -265,3 +265,14 @@ body{
     border-radius: 20px;
     box-shadow: 5px 5px 0px #000;
 }
+.container22{
+    position: absolute;
+    text-align: center;
+    width: 300px;
+    height: 350px;
+    background-color: lightcoral;
+    top: 1990px;
+    left: 380px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 0px #000;
+}
